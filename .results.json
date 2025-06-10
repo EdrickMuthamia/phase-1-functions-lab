@@ -5,9 +5,9 @@
     "passes": 13,
     "pending": 0,
     "failures": 0,
-    "start": "2025-06-05T19:53:07.590Z",
-    "end": "2025-06-05T19:53:08.477Z",
-    "duration": 887
+    "start": "2025-06-10T22:59:58.499Z",
+    "end": "2025-06-10T22:59:59.593Z",
+    "duration": 1094
   },
   "tests": [
     {
@@ -20,7 +20,7 @@
     {
       "title": "returns a distance in blocks",
       "fullTitle": "index.js distanceFromHqInBlocks() returns a distance in blocks",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -55,14 +55,14 @@
     {
       "title": "returns the distance travelled in feet",
       "fullTitle": "index.js distanceTravelledInFeet() returns the distance travelled in feet",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "returns a distance in feet",
       "fullTitle": "index.js distanceTravelledInFeet() returns a distance in feet",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -76,14 +76,14 @@
     {
       "title": "gives customers a free sample",
       "fullTitle": "index.js calculatesFarePrice(start, destination) gives customers a free sample",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "charges 2 cents per foot when total feet travelled is between 400 and 2000 (remember the first 400 feet are free!)",
       "fullTitle": "index.js calculatesFarePrice(start, destination) charges 2 cents per foot when total feet travelled is between 400 and 2000 (remember the first 400 feet are free!)",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -97,7 +97,7 @@
     {
       "title": "does not allow rides over 2500 feet",
       "fullTitle": "index.js calculatesFarePrice(start, destination) does not allow rides over 2500 feet",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     }
@@ -115,7 +115,7 @@
     {
       "title": "returns a distance in blocks",
       "fullTitle": "index.js distanceFromHqInBlocks() returns a distance in blocks",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -150,14 +150,14 @@
     {
       "title": "returns the distance travelled in feet",
       "fullTitle": "index.js distanceTravelledInFeet() returns the distance travelled in feet",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "returns a distance in feet",
       "fullTitle": "index.js distanceTravelledInFeet() returns a distance in feet",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -171,14 +171,14 @@
     {
       "title": "gives customers a free sample",
       "fullTitle": "index.js calculatesFarePrice(start, destination) gives customers a free sample",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "charges 2 cents per foot when total feet travelled is between 400 and 2000 (remember the first 400 feet are free!)",
       "fullTitle": "index.js calculatesFarePrice(start, destination) charges 2 cents per foot when total feet travelled is between 400 and 2000 (remember the first 400 feet are free!)",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -192,7 +192,7 @@
     {
       "title": "does not allow rides over 2500 feet",
       "fullTitle": "index.js calculatesFarePrice(start, destination) does not allow rides over 2500 feet",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     }
